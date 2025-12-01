@@ -373,6 +373,7 @@ telnet example.com 80
 - [TryHackMe](https://tryhackme.com/) - Learning Cybersecurity
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free Web Security Training
 - [OWASP](https://owasp.org/) - Open Web Application Security Project
+- [OLICYBER](https://olicyber.it/) - Italian Cybersecurity Olympics (CTF)
 
 ---
 
