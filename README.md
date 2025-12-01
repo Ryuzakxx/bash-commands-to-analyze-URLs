@@ -16,3 +16,16 @@ HEADER with detailed output
 ```bash
 curl -v http://example.com
 ```
+
+Follow the redirect
+```bash
+curl -L -I http://example.com
+```
+
+# GENERAL WEB SCAN
+
+Download a page
+```bash
+wget http://example.com
+```
+
