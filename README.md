@@ -14,5 +14,5 @@ curl -i http://example.com
 
 HEADER with detailed output
 ```bash
-curl -v http://example.com)
+curl -v http://example.com
 ```
