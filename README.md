@@ -1,5 +1,8 @@
 # 🔐 Terminal Commands for Web Analysis
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![it](https://img.shields.io/badge/lang-it-green.svg)](README_IT.md)
+
 > 🎯 Complete guide for CTF and Penetration Testing on Kali Linux
 
 [![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=kalilinux)](https://www.kali.org/)
