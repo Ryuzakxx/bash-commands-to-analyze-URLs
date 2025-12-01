@@ -392,12 +392,6 @@ Have suggestions or new commands to add? Feel free to:
 
 ---
 
-## 📝 License
-
-This project is released under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 Created for computer science students - **Kali Linux & CTF**
