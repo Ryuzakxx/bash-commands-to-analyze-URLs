@@ -1,2 +1,2 @@
-# bash-commands-to-analyze-URLs
+# Bash commands to analyze URLs
 A list of bash commands to analyze and get output of elements in URLs, such as heads, json, ecc...
