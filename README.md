@@ -6,3 +6,13 @@ HEADER Request
 ```bash
 curl -I http://example.com
 ```
+
+GET Request with visible headers
+```bash
+curl -i http://example.com
+```
+
+HEADER with detailed output
+```bash
+curl -v http://example.com)
+```
